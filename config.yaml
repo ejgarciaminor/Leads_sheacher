@@ -1,7 +1,7 @@
 # Ejemplo de configuración para Leadgen Agent
 # Copia este archivo a `config.yaml` y rellena los valores.
 
-sector: "psicologos"          # Sector o actividad a buscar
+sector: "Inmobiliaria"          # Sector o actividad a buscar
 provincia: "Alcobendas"             # Provincia
 municipio: "Madrid"         # Municipio
 apiKey: "AIzaSyD1pTzs6gNHZjZBcOF_pjHF5taPijqB5AY"            # API Key de Google (Places API New habilitada)
