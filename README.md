@@ -87,4 +87,8 @@ Salida:
 - Debes habilitar "Places API (New)" en tu proyecto y usar la `apiKey` con permisos.
 - Si ves `REQUEST_DENIED`, revisa: facturación, API habilitada, restricciones de la clave, y que no uses la versión legacy.
 
+Como lanzar desde terminal:
+- Documentos\GitHub\Leads_sheacher>python -m src.pipeline.main
+
+
 
